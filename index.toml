@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "17e2093e79c750817ee4b472ef7a9a67dca28ce8f31ebf7c8638cab1b25a18f1"
+
+[[files]]
 file = "config/MythicMountsConfig.json"
 hash = "d8b43bedf628b69e035bc340e4936bca48cd3c0bd5d02ebf3cc9595ff32981ba"
 
