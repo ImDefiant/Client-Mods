@@ -805,6 +805,11 @@ hash = "6f9b8e80b39e9c37e75d4bdbe59177696f8ea82f24b335922d88e16523ce1713"
 metafile = true
 
 [[files]]
+file = "mods/aquamirae.pw.toml"
+hash = "ea42747450c6c385925895e98de7c1347c6e24b034bbaee198d5dfda4bb8eb1d"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "b6b6e112dcd5a4c4db942e88c3ef5f89e722f51f82beae2a1e0fa792ad385946"
 metafile = true
@@ -1106,7 +1111,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "949bd1d3a79e15a089db4ade5d63edacf53b71e1ac7978826b154f59aadf077f"
+hash = "33f865a014f3acf2c1f2c452bfe7ba1a864acad178322a6eab3759c7e63c9654"
 metafile = true
 
 [[files]]
@@ -1400,6 +1405,11 @@ hash = "d5d931c076d4b9b6ffe7f7a4d1e6135ff4f5f26e34ba53fd5110ea8e83c3375d"
 metafile = true
 
 [[files]]
+file = "mods/obscure-api.pw.toml"
+hash = "5b96aa24048b1cea2e05b91954a25579f41c83c7008afd5c48426b579664288a"
+metafile = true
+
+[[files]]
 file = "mods/oceans-delight.pw.toml"
 hash = "1c5732b5010aab54d9937825a1a898292fbeeb4cba818ddb625703ac6f283838"
 metafile = true
@@ -1407,6 +1417,11 @@ metafile = true
 [[files]]
 file = "mods/only-hammers-forge-fabric.pw.toml"
 hash = "d85f217d497bca1d7f64be19fa7842d50eebb5949da182a74b0746488b8afe2a"
+metafile = true
+
+[[files]]
+file = "mods/only-hammers.pw.toml"
+hash = "4579edeaa8a169baca0f4a8a857e252d9fe642c76f6bb0ac670888f6bab4526f"
 metafile = true
 
 [[files]]
@@ -1471,7 +1486,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "03120897f0dd10a4139a0a36aa0cfe854346be72d056fa9f42a7019098820576"
+hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
 metafile = true
 
 [[files]]
@@ -1561,7 +1576,7 @@ metafile = true
 
 [[files]]
 file = "mods/trimseffects.pw.toml"
-hash = "e0d4c1d05848180969860656bb31eb575395056479c4ad0ace06eabca37f1651"
+hash = "38f060161fa4a30157b9be54f77bd2dfabf74a9d90b8ba23a4a3027cf0c3193e"
 metafile = true
 
 [[files]]
@@ -1602,6 +1617,11 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise-fabric.pw.toml"
 hash = "c46e08d279801e7c6ec824b2dab645e92aafa78fc82fa90adb1efaa97e2de5de"
+metafile = true
+
+[[files]]
+file = "mods/wildlife-fabric.pw.toml"
+hash = "1e587287bf4e47ef56eb87a1f3159b65b137e20e147d231a79a2874fade1f07f"
 metafile = true
 
 [[files]]
@@ -1651,7 +1671,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/mandalas-gui-dark-mode.pw.toml"
-hash = "427320d2bb8d8ee2afaa9af7be44ffafaf6150cd5e706643620e27ac8f62d879"
+hash = "7f19038e743422e508eabe5a49530bbd8d525d74ee1315ad1a68f023b8f4b639"
 metafile = true
 
 [[files]]
