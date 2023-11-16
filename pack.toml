@@ -1,0 +1,13 @@
+name = "The Boys Modded Server"
+author = "ImDefiant"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f6f8584d78d8316bef670bbf239f98992c559382ce857af17135ce061a0cff8b"
+
+[versions]
+fabric = "0.14.24"
+minecraft = "1.20.1"
