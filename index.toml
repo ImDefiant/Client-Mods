@@ -800,11 +800,6 @@ hash = "b8d5272b826f2906655466513daac81ae431746cca9492df0ec96f8e8d50df00"
 metafile = true
 
 [[files]]
-file = "mods/aquamirae-fabric.pw.toml"
-hash = "6f9b8e80b39e9c37e75d4bdbe59177696f8ea82f24b335922d88e16523ce1713"
-metafile = true
-
-[[files]]
 file = "mods/aquamirae.pw.toml"
 hash = "ea42747450c6c385925895e98de7c1347c6e24b034bbaee198d5dfda4bb8eb1d"
 metafile = true
@@ -957,11 +952,6 @@ metafile = true
 [[files]]
 file = "mods/chefs-delight-fabric.pw.toml"
 hash = "463940fb8de3fb34480eec0d2405428dfd70732cfda966bcf6de2a9e846e7fff"
-metafile = true
-
-[[files]]
-file = "mods/chirpys-wildlife.pw.toml"
-hash = "068c886863d091b9cb016f137d123556c4559d385ac27e0838cc31d2708b5d4d"
 metafile = true
 
 [[files]]
@@ -1400,11 +1390,6 @@ hash = "708f7f5e8d9cbef51a774355141ecf3b9040dbcd194e4781714872232b2fe238"
 metafile = true
 
 [[files]]
-file = "mods/obscure-api-fabric.pw.toml"
-hash = "d5d931c076d4b9b6ffe7f7a4d1e6135ff4f5f26e34ba53fd5110ea8e83c3375d"
-metafile = true
-
-[[files]]
 file = "mods/obscure-api.pw.toml"
 hash = "5b96aa24048b1cea2e05b91954a25579f41c83c7008afd5c48426b579664288a"
 metafile = true
@@ -1412,11 +1397,6 @@ metafile = true
 [[files]]
 file = "mods/oceans-delight.pw.toml"
 hash = "1c5732b5010aab54d9937825a1a898292fbeeb4cba818ddb625703ac6f283838"
-metafile = true
-
-[[files]]
-file = "mods/only-hammers-forge-fabric.pw.toml"
-hash = "d85f217d497bca1d7f64be19fa7842d50eebb5949da182a74b0746488b8afe2a"
 metafile = true
 
 [[files]]
