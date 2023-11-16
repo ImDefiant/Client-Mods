@@ -309,14 +309,6 @@ file = "config/farmersdelight.json"
 hash = "050ba20fca66274c6f8d408a07da0c91a9b30f54a0023639ebcb21bda5c0aa5f"
 
 [[files]]
-file = "config/farsight.json"
-hash = "98a9f53e1e21247108a90e80b9cf4141fd7b432e219a262672ffedd5730afbab"
-
-[[files]]
-file = "config/fastload.properties"
-hash = "09b61def3f6bcec8357f0b39cc37ca8c1eb17d1bf341d83ab9411c96ee5b1686"
-
-[[files]]
 file = "config/ferritecore.mixin.properties"
 hash = "a2091a291309db8920c8a80e913ed31c24c29687d8cd25ac18076ad85a90ddb8"
 
@@ -335,10 +327,6 @@ hash = "720923383276346c2fc1853d9d87771bebd22485d3f05ce005e94e3bad548bf8"
 [[files]]
 file = "config/goblintraders-entities.toml"
 hash = "582e4a094ced62c12e4296a8dcd65e59592fdca2d95e2b6da5dbf6394b61905b"
-
-[[files]]
-file = "config/indium-renderer.properties"
-hash = "9b67d9ced21727bd07da067620fbfc617253db0a368d59ef4ebca0049e48475b"
 
 [[files]]
 file = "config/indrev/cables.json"
@@ -367,10 +355,6 @@ hash = "52b78b086217bcf58965c031fefdeb50b599d9ed2eb70df337fb3fd3ff4b3c0c"
 [[files]]
 file = "config/indrev/upgrades.json"
 hash = "ebbb00fcd5f6a560a60c43c86b71a49a035f154799b6135c1627f14d5f5f72b5"
-
-[[files]]
-file = "config/iris.properties"
-hash = "adcffb86d05c3f1721aeaf56fef3e4dac9dc2c6a811e65be5e85431ca18e6ea2"
 
 [[files]]
 file = "config/iron-jetpacks/client.json5"
