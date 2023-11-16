@@ -741,26 +741,6 @@ file = "config/zoomify.json"
 hash = "8d61a625f65493f3e4f40f5e49cd0d5405b6e105b2d9c005950f78dbfb2095fa"
 
 [[files]]
-file = "datapacks/adventurez-netherite-fix.pw.toml"
-hash = "d53d4983f6c8889132111c6f86efd7f7975dc98c7a8240d803ceb7f3eb0a4771"
-metafile = true
-
-[[files]]
-file = "datapacks/farmers-delight-tools-expanded.pw.toml"
-hash = "fb7300638c183dfcec57f9df854672ad0311ae97d69206331b77c7db67b02109"
-metafile = true
-
-[[files]]
-file = "datapacks/trinkets-offhand-glove-fix.pw.toml"
-hash = "48a39b7faf03c79395d973c78e725d1e62d27cf149e1723462dc732e178433e4"
-metafile = true
-
-[[files]]
-file = "datapacks/when-dungeons-arise-loot-tweaks.pw.toml"
-hash = "92014da7b95c60b43bf000224f179c498636237cb247c290698351e8f3ff397f"
-metafile = true
-
-[[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
 hash = "f449842855816a364764dc02317099b4e8164b068b185bf0194c8fb638b57d6d"
 metafile = true
