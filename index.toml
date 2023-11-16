@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "77c05fd08f60621f94b5fe1b363725904f910f5e71c8eafe4bdca53088b41e9c"
+hash = "17e2093e79c750817ee4b472ef7a9a67dca28ce8f31ebf7c8638cab1b25a18f1"
 
 [[files]]
 file = "config/MythicMountsConfig.json"
@@ -977,11 +977,6 @@ metafile = true
 [[files]]
 file = "mods/compressed-blocks-for-fabric.pw.toml"
 hash = "764d85a54b6ca96430a4638521c2f34bcbe5f2f23688414e9aee93dd89b077e9"
-metafile = true
-
-[[files]]
-file = "mods/continuity.pw.toml"
-hash = "15e092da79cd6d3a54fcd9c03d9e9ddafc106b5ac7e193f3b811034c803349ef"
 metafile = true
 
 [[files]]
