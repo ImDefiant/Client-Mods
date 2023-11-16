@@ -5,11 +5,6 @@ file = "README.md"
 hash = "77c05fd08f60621f94b5fe1b363725904f910f5e71c8eafe4bdca53088b41e9c"
 
 [[files]]
-file = "complementary-unbound.pw.toml"
-hash = "fc9a279bdbe61e870a8b446c5c70b924799f9c17cdd04f6f7275801524165f2d"
-metafile = true
-
-[[files]]
 file = "config/MythicMountsConfig.json"
 hash = "d8b43bedf628b69e035bc340e4936bca48cd3c0bd5d02ebf3cc9595ff32981ba"
 
@@ -1660,5 +1655,6 @@ hash = "427320d2bb8d8ee2afaa9af7be44ffafaf6150cd5e706643620e27ac8f62d879"
 metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryUnbound_r5.0.1.zip.txt"
-hash = "d057422b136544d59c1a4523f7585686234441a480d0c42df8e7aa5c82c609fe"
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "5b488fd021ad1d6195dfdb63ca361be0d7a0941d0ffc6b31f31c53eccd623554"
+metafile = true
