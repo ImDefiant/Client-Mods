@@ -1,0 +1,272 @@
+[vanilla]
+	[vanilla.chicken]
+		chickenSpawnEgg = "minecraft:chicken_spawn_egg"
+		#Ingredients required for chicken breeding
+		chickenIngredients = "minecraft:wheat_seeds, minecraft:pumpkin_seeds, minecraft:melon_seeds, minecraft:beetroot_seeds, minecraft:torchflower_seeds, minecraft:pitcher_pod"
+		chickenBreedingCooldown = 6000
+	[vanilla.panda]
+		pandaSpawnEgg = "minecraft:panda_spawn_egg"
+		pandaBreedingCooldown = 6000
+		#Ingredients required for panda breeding
+		pandaIngredients = "minecraft:bamboo"
+	[vanilla.sniffer]
+		#Ingredients required for sniffer breeding
+		snifferIngredients = "minecraft:torchflower_seeds"
+		snifferBreedingCooldown = 6000
+		snifferSpawnEgg = "minecraft:sniffer_spawn_egg"
+		#Egg that sniffer lays after breeding
+		snifferEggResult = "minecraft:sniffer_egg"
+		#Min amount of eggs that sniffer lays after breeding
+		#Range: 1 ~ 64
+		snifferEggMinAmount = 1
+		#Max amount of eggs that sniffer lays after breeding
+		#Range: 1 ~ 64
+		snifferEggMaxAmount = 1
+	[vanilla.axolotl]
+		axolotlSpawnEgg = "minecraft:axolotl_spawn_egg"
+		#Ingredients required for axolotl breeding
+		axolotlIngredients = "minecraft:tropical_fish_bucket"
+		axolotlBreedingCooldown = 6000
+	[vanilla.bee]
+		#Ingredients required for bee breeding
+		beeIngredients = "#minecraft:flowers"
+		beeSpawnEgg = "minecraft:bee_spawn_egg"
+		beeBreedingCooldown = 6000
+	[vanilla.trader_llama]
+		#Ingredients required for trader_llama breeding
+		trader_llamaIngredients = "minecraft:wheat, minecraft:hay_block"
+		trader_llamaSpawnEgg = "minecraft:trader_llama_spawn_egg"
+		trader_llamaBreedingCooldown = 6000
+		#Values of ingredients that increase trader_llama temper
+		trader_llamaTemperValues = "3, 6"
+		#Ingredients that increase trader_llama temper
+		trader_llamaTemperIngredients = "minecraft:wheat, minecraft:hay_block"
+	[vanilla.donkey]
+		#Ingredients that increase donkey temper
+		donkeyTemperIngredients = "minecraft:sugar, minecraft:wheat, minecraft:apple, minecraft:golden_carrot, minecraft:golden_apple"
+		donkeyBreedingCooldown = 6000
+		#Ingredients required for donkey breeding
+		donkeyIngredients = "minecraft:golden_apple, minecraft:enchanted_golden_apple, minecraft:golden_carrot"
+		donkeySpawnEgg = "minecraft:donkey_spawn_egg"
+		#Values of ingredients that increase donkey temper
+		donkeyTemperValues = "3, 3, 3, 5, 10"
+	[vanilla.cow]
+		cowBreedingCooldown = 6000
+		#Ingredients required for cow breeding
+		cowIngredients = "minecraft:wheat"
+		cowSpawnEgg = "minecraft:cow_spawn_egg"
+	[vanilla.fox]
+		foxSpawnEgg = "minecraft:fox_spawn_egg"
+		foxBreedingCooldown = 6000
+		#Range: 0 ~ 100
+		foxTrustingChance = 33
+		#Ingredients required for fox trusting
+		foxTrustingIngredients = "#minecraft:fox_food"
+		#Ingredients required for fox breeding
+		foxIngredients = "#minecraft:fox_food"
+	[vanilla.pig]
+		#Ingredients required for pig breeding
+		pigIngredients = "minecraft:carrot, minecraft:potato, minecraft:beetroot"
+		pigBreedingCooldown = 6000
+		pigSpawnEgg = "minecraft:pig_spawn_egg"
+	[vanilla.llama]
+		#Values of ingredients that increase llama temper
+		llamaTemperValues = "3, 6"
+		llamaSpawnEgg = "minecraft:llama_spawn_egg"
+		#Ingredients that increase llama temper
+		llamaTemperIngredients = "minecraft:wheat, minecraft:hay_block"
+		llamaBreedingCooldown = 6000
+		#Ingredients required for llama breeding
+		llamaIngredients = "minecraft:wheat, minecraft:hay_block"
+	[vanilla.mule]
+		#Values of ingredients that increase mule temper
+		muleTemperValues = "3, 3, 3, 5, 10"
+		#Ingredients required for mule taming
+		muleTamingIngredients = "minecraft:wheat, minecraft:hay_block"
+		#Ingredients that increase mule temper
+		muleTemperIngredients = "minecraft:sugar, minecraft:wheat, minecraft:apple, minecraft:golden_carrot, minecraft:golden_apple"
+		#Range: 0 ~ 100
+		muleTamingChance = 33
+		muleSpawnEgg = "minecraft:mule_spawn_egg"
+	[vanilla.frog]
+		#Ingredients required for frog breeding
+		frogIngredients = "minecraft:slime_ball"
+		frogBreedingCooldown = 6000
+		#Max amount of eggs that frog lays after breeding
+		#Range: 1 ~ 64
+		frogEggMaxAmount = 1
+		#Egg that frog lays after breeding
+		frogEggResult = "minecraft:frogspawn"
+		#Min amount of eggs that frog lays after breeding
+		#Range: 1 ~ 64
+		frogEggMinAmount = 1
+		frogSpawnEgg = "minecraft:frog_spawn_egg"
+	[vanilla.hoglin]
+		#Ingredients required for hoglin breeding
+		hoglinIngredients = "minecraft:crimson_fungus"
+		hoglinBreedingCooldown = 6000
+		hoglinSpawnEgg = "minecraft:hoglin_spawn_egg"
+	[vanilla.camel]
+		camelSpawnEgg = "minecraft:camel_spawn_egg"
+		camelBreedingCooldown = 6000
+		#Ingredients required for camel breeding
+		camelIngredients = "minecraft:cactus"
+	[vanilla.cat]
+		#Ingredients required for cat breeding
+		catIngredients = "minecraft:cod, minecraft:salmon"
+		catBreedingCooldown = 6000
+		#Range: 0 ~ 100
+		catTamingChance = 33
+		catSpawnEgg = "minecraft:cat_spawn_egg"
+		#Ingredients required for cat taming
+		catTamingIngredients = "minecraft:cod, minecraft:salmon"
+	[vanilla.rabbit]
+		rabbitBreedingCooldown = 6000
+		#Ingredients required for rabbit breeding
+		rabbitIngredients = "minecraft:dandelion, minecraft:carrot, minecraft:golden_carrot"
+		rabbitSpawnEgg = "minecraft:rabbit_spawn_egg"
+	[vanilla.sheep]
+		sheepBreedingCooldown = 6000
+		sheepSpawnEgg = "minecraft:sheep_spawn_egg"
+		#Ingredients required for sheep breeding
+		sheepIngredients = "minecraft:wheat"
+	[vanilla.turtle]
+		#Egg that turtle lays after breeding
+		turtleEggResult = "minecraft:turtle_egg"
+		#Max amount of eggs that turtle lays after breeding
+		#Range: 1 ~ 64
+		turtleEggMaxAmount = 4
+		turtleBreedingCooldown = 6000
+		#Ingredients required for turtle breeding
+		turtleIngredients = "minecraft:seagrass"
+		turtleSpawnEgg = "minecraft:turtle_spawn_egg"
+		#Min amount of eggs that turtle lays after breeding
+		#Range: 1 ~ 64
+		turtleEggMinAmount = 1
+	[vanilla.wolf]
+		wolfSpawnEgg = "minecraft:wolf_spawn_egg"
+		wolfBreedingCooldown = 6000
+		#Range: 0 ~ 100
+		wolfTamingChance = 33
+		#Ingredients required for wolf taming
+		wolfTamingIngredients = "minecraft:bone"
+		#Ingredients required for wolf breeding
+		wolfIngredients = "duckling:raw_duck, adventurez:cooked_venison, farmersdelight:chicken_cuts, minecraft:porkchop, kibe:kibe, hybrid-aquatic:yellowfin_tuna, minecraft:rotten_flesh, ubesdelight:chicken_inasal, nethersdelight:ground_strider, nethersdelight:hoglin_loin, ubesdelight:chicken_inasal_rice, farmersdelight:minced_beef, minecraft:cooked_rabbit, adventurez:ender_whale_meat, nethersdelight:hoglin_sirloin, hybrid-aquatic:rockfish, hybrid-aquatic:triggerfish, hybrid-aquatic:tentacle, naturalist:lizard_tail, farmersdelight:bacon, adventurez:raw_venison, ubesdelight:bulalo, hybrid-aquatic:cooked_small_fish_meat, hybrid-aquatic:blue_spotted_stingray, aquamirae:fin, aquamirae:spinefish, aquamirae:sharp_bones, coxinhautilities:coxinha, hybrid-aquatic:piranha, minecraft:beef, adventurez:cooked_ender_whale_meat, ubesdelight:arroz_caldo, minecraft:chicken, kibe:cursed_kibe, croptopia:pepperoni, ubesdelight:lumpia, aquamirae:cooked_spinefish, hybrid-aquatic:anglerfish, betternether:stalagnate_bowl_wart, minecraft:cooked_chicken, adventurez:rhino_meat, minecraft:cooked_beef, kibe:golden_kibe, farmersdelight:cooked_mutton_chops, farmersdelight:cooked_chicken_cuts, hybrid-aquatic:oscar, hybrid-aquatic:blue_tang, ubesdelight:bangsilog, naturalist:duck, hybrid-aquatic:unicorn_fish, nethersdelight:strider_slice, farmersdelight:dog_food, croptopia:beef_jerky, ubesdelight:tosilog, naturalist:cooked_duck, nethersdelight:hoglin_ear, coxinhautilities:golden_coxinha, hybrid-aquatic:small_fish_meat, adventurez:cooked_mammoth_meat, hybrid-aquatic:cooked_tentacle, minecraft:rabbit, adventurez:warthog_meat, naturalist:cooked_venison, ubesdelight:sisig, croptopia:pork_jerky, naturalist:venison, adventurez:mammoth_meat, hybrid-aquatic:tiger_barb, adventurez:cooked_warthog_meat, hybrid-aquatic:cooked_crab_meat, hybrid-aquatic:mahi_mahi, ubesdelight:kinilaw, hybrid-aquatic:lionfish, kibe:diamond_kibe, hybrid-aquatic:cowfish, hybrid-aquatic:fish_meat, farmersdelight:cooked_bacon, farmersdelight:mutton_chops, hybrid-aquatic:needlefish, hybrid-aquatic:opah, ubesdelight:tocino, hybrid-aquatic:crab_meat, minecraft:mutton, ubesdelight:mechado, coxinhautilities:cursed_coxinha, hybrid-aquatic:moray_eel, hybrid-aquatic:clownfish, minecraft:cooked_mutton, minecraft:cooked_porkchop, adventurez:iguana_meat, hybrid-aquatic:barreleye, duckling:cooked_duck, farmersdelight:beef_patty, coxinhautilities:diamond_coxinha, adventurez:cooked_iguana_meat, hybrid-aquatic:cooked_fish_meat, croptopia:bacon, adventurez:cooked_rhino_meat"
+	[vanilla.goat]
+		goatBreedingCooldown = 6000
+		#Ingredients required for goat breeding
+		goatIngredients = "minecraft:wheat"
+		goatSpawnEgg = "minecraft:goat_spawn_egg"
+	[vanilla.ocelot]
+		#Ingredients required for ocelot breeding
+		ocelotIngredients = "minecraft:cod, minecraft:salmon"
+		#Range: 0 ~ 100
+		ocelotTrustingChance = 33
+		ocelotSpawnEgg = "minecraft:ocelot_spawn_egg"
+		ocelotBreedingCooldown = 6000
+		#Ingredients required for ocelot trusting
+		ocelotTrustingIngredients = "minecraft:cod, minecraft:salmon"
+	[vanilla.strider]
+		#Ingredients required for strider breeding
+		striderIngredients = "minecraft:warped_fungus"
+		striderSpawnEgg = "minecraft:strider_spawn_egg"
+		striderBreedingCooldown = 6000
+	[vanilla.horse]
+		horseBreedingCooldown = 6000
+		#Ingredients that increase horse temper
+		horseTemperIngredients = "minecraft:sugar, minecraft:wheat, minecraft:apple, minecraft:golden_carrot, minecraft:golden_apple"
+		#Ingredients required for horse breeding
+		horseIngredients = "minecraft:golden_apple, minecraft:enchanted_golden_apple, minecraft:golden_carrot"
+		#Values of ingredients that increase horse temper
+		horseTemperValues = "3, 3, 3, 5, 10"
+		horseSpawnEgg = "minecraft:horse_spawn_egg"
+	[vanilla.mooshroom]
+		mooshroomSpawnEgg = "minecraft:mooshroom_spawn_egg"
+		mooshroomBreedingCooldown = 6000
+		#Ingredients required for mooshroom breeding
+		mooshroomIngredients = "minecraft:wheat"
+	[vanilla.parrot]
+		#Ingredients required for parrot taming
+		parrotTamingIngredients = "minecraft:wheat_seeds, minecraft:pumpkin_seeds, minecraft:melon_seeds, minecraft:beetroot_seeds, minecraft:torchflower_seeds, minecraft:pitcher_pod"
+		#Range: 0 ~ 100
+		parrotTamingChance = 33
+		parrotSpawnEgg = "minecraft:parrot_spawn_egg"
+[integration]
+	[integration.naturalist]
+		[integration.naturalist.boar]
+			boarSpawnEgg = "naturalist:boar_spawn_egg"
+			#Ingredients required for boar breeding
+			boarIngredients = "#naturalist:boar_food_items"
+			boarBreedingCooldown = 6000
+		[integration.naturalist.deer]
+			deerSpawnEgg = "naturalist:deer_spawn_egg"
+			deerBreedingCooldown = 6000
+			#Ingredients required for deer breeding
+			deerIngredients = "minecraft:apple"
+		[integration.naturalist.alligator]
+			alligatorBreedingCooldown = 6000
+			#Ingredients required for alligator breeding
+			alligatorIngredients = "#naturalist:alligator_food_items"
+			#Min amount of eggs that alligator lays after breeding
+			#Range: 1 ~ 64
+			alligatorEggMinAmount = 1
+			alligatorSpawnEgg = "naturalist:alligator_spawn_egg"
+			#Egg that alligator lays after breeding
+			alligatoreggResult = "naturalist:alligator_egg"
+			#Max amount of eggs that alligator lays after breeding
+			#Range: 1 ~ 64
+			alligatorEggMaxAmount = 4
+		[integration.naturalist.tortoise]
+			tortoiseSpawnEgg = "naturalist:tortoise_spawn_egg"
+			tortoiseBreedingCooldown = 6000
+			#Egg that tortoise lays after breeding
+			tortoiseeggResult = "naturalist:tortoise_egg"
+			#Max amount of eggs that tortoise lays after breeding
+			#Range: 1 ~ 64
+			tortoiseEggMaxAmount = 4
+			#Min amount of eggs that tortoise lays after breeding
+			#Range: 1 ~ 64
+			tortoiseEggMinAmount = 1
+			#Ingredients required for tortoise breeding
+			tortoiseIngredients = "#naturalist:tortoise_tempt_items"
+		[integration.naturalist.butterfly]
+			butterflySpawnEgg = "naturalist:butterfly_spawn_egg"
+			#Ingredients required for butterfly breeding
+			butterflyIngredients = "#minecraft:flowers"
+			butterflyBreedingCooldown = 6000
+		[integration.naturalist.duck]
+			#Ingredients required for duck breeding
+			duckIngredients = "#naturalist:duck_food_items"
+			duckBreedingCooldown = 6000
+			duckSpawnEgg = "naturalist:duck_spawn_egg"
+		[integration.naturalist.giraffe]
+			giraffeBreedingCooldown = 6000
+			giraffeSpawnEgg = "naturalist:giraffe_spawn_egg"
+			#Ingredients required for giraffe breeding
+			giraffeIngredients = "minecraft:hay_block"
+		[integration.naturalist.bear]
+			bearSpawnEgg = "naturalist:bear_spawn_egg"
+			#Ingredients required for bear breeding
+			bearIngredients = "#naturalist:bear_tempt_items"
+			bearBreedingCooldown = 6000
+	[integration.duckling]
+		[integration.duckling.duck]
+			#Ingredients required for duck breeding
+			duckIngredients = "minecraft:bread"
+			duckBreedingCooldown = 6000
+			duckSpawnEgg = "duckling:duck_spawn_egg"
+	[integration.friendsandfoes]
+		[integration.friendsandfoes.glare]
+			#Ingredients required for glare taming
+			glareTamingIngredients = "minecraft:glow_berries"
+			#Range: 0 ~ 100
+			glareTamingChance = 33
+			#Ingredients required for glare breeding
+			glareIngredients = "minecraft:glow_berries"
+			glareBreedingCooldown = 6000
+			glareSpawnEgg = "friendsandfoes:glare_spawn_egg"
+		[integration.friendsandfoes.moobloom]
+			#Ingredients required for moobloom breeding
+			moobloomIngredients = "minecraft:wheat"
+			moobloomBreedingCooldown = 6000
+			moobloomSpawnEgg = "friendsandfoes:moobloom_spawn_egg"
